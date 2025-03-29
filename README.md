@@ -34,12 +34,12 @@ Inspired by the "[Awesome](https://github.com/sindresorhus/awesome)" lists.
 *User groups, meetups, online forums (e.g., specific Slack/Discord groups, GDGs). Links often point to Meetup or primary community pages.*
 
   * [GDG Legon](https://www.meetup.com/GDG-Legon/) - Google Developer Group at University of Ghana, Legon. Focuses on Google technologies. *(Link assumed based on standard Meetup pattern, verify)*
-  * [Flutter Accra](https://www.meetup.com/Flutter-Accra/) - Community for Flutter developers in Accra. *(Link assumed, verify)*
-  * [DevOps GH](https://www.meetup.com/DevOps-GH/) - Community focused on DevOps practices and tools in Ghana. *(Link assumed, verify)*
+  * [Flutter Accra](https://www.meetup.com/Flutter-Accra/) - Community for Flutter developers in Accra. 
+  * [DevOps GH](https://www.meetup.com/DevOps-GH/) - Community focused on DevOps practices and tools in Ghana. 
   * [Domain-Driven Design Africa](https://www.meetup.com/domain-driven-design-africa/) - Group exploring Domain-Driven Design principles, based in Accra. *(Link assumed, verify)*
-  * [Django Social - Ghana](https://www.meetup.com/django-social-ghana/) - Community for Django web framework developers. *(Link assumed, verify)*
-  * [AWS Cloud Club at Greater Accra](https://www.meetup.com/aws-cloud-club-at-greater-accra/) - Community focused on AWS cloud technologies. *(Link assumed, verify)*
-  * [Meta Developer Circle: Accra](link_needed) - Community for developers using Meta technologies (formerly Facebook Developer Circle). *(Need to find current link/status, often a Facebook Group)*
+  * [Django Social - Ghana](https://www.meetup.com/django-social-ghana/) - Community for Django web framework developers.
+  * [AWS Cloud Club at Greater Accra](https://www.meetup.com/aws-cloud-club-at-greater-accra/) - Community focused on AWS cloud technologies.
+  * [Meta Developer Circle: Accra](link_needed) - Community for developers using Meta technologies (formerly Facebook Developer Circle).
   * *Add more here...*
 
 ## Events & Conferences
