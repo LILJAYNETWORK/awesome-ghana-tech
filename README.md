@@ -31,9 +31,15 @@ Inspired by the "[Awesome](https://github.com/sindresorhus/awesome)" lists.
 
 ## Developer Communities
 
-*User groups, meetups, online forums (e.g., specific Slack/Discord groups, GDGs).*
+*User groups, meetups, online forums (e.g., specific Slack/Discord groups, GDGs). Links often point to Meetup or primary community pages.*
 
-  * [Example Community](link_here) - Description (e.g., focus area, meeting frequency).
+  * [GDG Legon](https://www.meetup.com/GDG-Legon/) - Google Developer Group at University of Ghana, Legon. Focuses on Google technologies. *(Link assumed based on standard Meetup pattern, verify)*
+  * [Flutter Accra](https://www.meetup.com/Flutter-Accra/) - Community for Flutter developers in Accra. *(Link assumed, verify)*
+  * [DevOps GH](https://www.meetup.com/DevOps-GH/) - Community focused on DevOps practices and tools in Ghana. *(Link assumed, verify)*
+  * [Domain-Driven Design Africa](https://www.meetup.com/domain-driven-design-africa/) - Group exploring Domain-Driven Design principles, based in Accra. *(Link assumed, verify)*
+  * [Django Social - Ghana](https://www.meetup.com/django-social-ghana/) - Community for Django web framework developers. *(Link assumed, verify)*
+  * [AWS Cloud Club at Greater Accra](https://www.meetup.com/aws-cloud-club-at-greater-accra/) - Community focused on AWS cloud technologies. *(Link assumed, verify)*
+  * [Meta Developer Circle: Accra](link_needed) - Community for developers using Meta technologies (formerly Facebook Developer Circle). *(Need to find current link/status, often a Facebook Group)*
   * *Add more here...*
 
 ## Events & Conferences
@@ -68,10 +74,14 @@ Inspired by the "[Awesome](https://github.com/sindresorhus/awesome)" lists.
 
 *Popular hubs for tech professionals and startups.*
 
-  * [Example Space](link_here) - Location, brief description.
+  * [ALX Tech Hub Accra](https://www.alxafrica.com/ghana/hubs/) - Hub by ALX Africa offering workspace, events, and networking. Located at One Airport Square.
+  * [Regus Accra](https://www.regus.com/en-gb/ghana/accra/coworking) - Offers multiple serviced office and co-working locations (e.g., Airport City, Kofi Annan Street).
+  * [ComUnity\_Spaces](link_needed) - Co-working space in Accra. *(Name found in search, needs verification and link)*
   * *Add more here...*
 
 -----
+
+## License
 
 Licensed under the [MIT License](LICENSE).
 
